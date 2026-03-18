@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="VentasLimpieza.Api/VentasLimpieza.Api.csproj" />
+  <Project Path="VentasLimpieza.Core/VentasLimpieza.Core.csproj" />
+  <Project Path="VentasLimpieza.Infrastructure/VentasLimpieza.Infrastructure.csproj" />
+</Solution>
