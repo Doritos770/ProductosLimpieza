@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VentasLimpieza.Infrastructure.Data;
+namespace VentasLimpieza.core.Entities;
 
-public partial class Categorium
+public partial class Categoria
 {
     public int Id { get; set; }
 
@@ -12,4 +12,7 @@ public partial class Categorium
     public string? Descripcion { get; set; }
 
     public string? ImagenUrl { get; set; }
+
+
+    public virtual ICollection<Producto> Productos { get; set; }
 }

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VentasLimpieza.Infrastructure.Data;
+namespace VentasLimpieza.core.Entities;
 
 public partial class Pedido
 {

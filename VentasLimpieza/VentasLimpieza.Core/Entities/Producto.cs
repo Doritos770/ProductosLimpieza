@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VentasLimpieza.Infrastructure.Data;
+namespace VentasLimpieza.core.Entities;
 
 public partial class Producto
 {
@@ -10,6 +10,8 @@ public partial class Producto
     public string Nombre { get; set; } = null!;
 
     public string? Descripcion { get; set; }
+
+    public int CategoriaId { get; set; }
 
     public string? Marca { get; set; }
 
