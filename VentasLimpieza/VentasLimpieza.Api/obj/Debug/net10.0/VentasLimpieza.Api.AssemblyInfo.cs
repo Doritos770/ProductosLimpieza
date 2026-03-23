@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VentasLimpieza.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89be4a59bfee09554356a5cec76680762bde66ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5a58b8515f96562e79ba69676d3c9c241b5e20")]
 [assembly: System.Reflection.AssemblyProductAttribute("VentasLimpieza.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VentasLimpieza.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
