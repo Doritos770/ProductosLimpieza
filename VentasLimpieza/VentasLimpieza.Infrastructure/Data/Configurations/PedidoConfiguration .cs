@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using VentasLimpieza.core.Entities;
+using VentasLimpieza.Infrastructure.Data.Configurations;
 
 namespace VentasLimpieza.Infrastructure.Data
 {

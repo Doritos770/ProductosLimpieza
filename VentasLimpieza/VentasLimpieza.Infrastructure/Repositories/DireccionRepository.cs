@@ -23,7 +23,7 @@ public class DireccionRepository : IDireccionRepository
         return direcciones;
     }
 
-    public async Task<Direccion> GetDireccionAsync(int id)
+    public async Task<Direccion> GetDireccionByIdAsync(int id)
     {
         var direccione = await _direccion.Direccions.FirstOrDefaultAsync(x => x.Id == id);
         return direccione;

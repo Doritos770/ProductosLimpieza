@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VentasLimpieza.core.Entities;
+namespace VentasLimpieza.Core.Entities;
 
 public partial class Categoria
 {
@@ -12,7 +12,4 @@ public partial class Categoria
     public string? Descripcion { get; set; }
 
     public string? ImagenUrl { get; set; }
-
-
-    public virtual ICollection<Producto> Productos { get; set; }
 }

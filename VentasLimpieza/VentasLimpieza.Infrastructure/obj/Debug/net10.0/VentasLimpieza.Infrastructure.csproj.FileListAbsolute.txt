@@ -15,3 +15,4 @@ C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Infras
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Infrastructure\obj\Debug\net10.0\VentasLimpieza.Infrastructure.pdb
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Infrastructure\obj\Debug\net10.0\VentasLimpieza.Infrastructure.genruntimeconfig.cache
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Infrastructure\obj\Debug\net10.0\ref\VentasLimpieza.Infrastructure.dll
+C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Infrastructure\obj\Debug\net10.0\VentasLimpieza.Infrastructure.sourcelink.json

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using VentasLimpieza.core.Entities;
+using VentasLimpieza.Infrastructure.Data.Configurations;
 
 namespace VentasLimpieza.Infrastructure.Data
 {
@@ -25,15 +26,6 @@ namespace VentasLimpieza.Infrastructure.Data
 
             entity.HasIndex(e => e.UsoEspecifico, "IX_Producto_UsoEspecifico");
 
-            // NUEVO ÍNDICE PARA CATEGORIAID
-            entity.HasIndex(e => e.CategoriaId, "IX_Producto_CategoriaId");
-
-            // NUEVA RELACIÓN CON CATEGORIA
-            entity.HasOne(d => d.Categoria)
-                .WithMany(p => p.Productos)
-                .HasForeignKey(d => d.CategoriaId)
-                .OnDelete(DeleteBehavior.Restrict);
-
             entity.Property(e => e.CantidadUnidades).HasPrecision(10, 2);
             entity.Property(e => e.Concentracion).HasMaxLength(50);
             entity.Property(e => e.Descripcion).HasColumnType("text");
@@ -48,9 +40,6 @@ namespace VentasLimpieza.Infrastructure.Data
             entity.Property(e => e.Presentacion).HasMaxLength(50);
             entity.Property(e => e.Unidades).HasMaxLength(20);
             entity.Property(e => e.UsoEspecifico).HasColumnType("enum('Limpieza de superficies','Cuidado personal','Mantenimiento de vehículos','Limpieza de textiles','Desinfección de ambientes','Cuidado de la piel','Mantenimiento de equipos','Limpieza de vidrios','Limpieza de suelos','Aromaterapia')");
-
-            // NUEVA PROPIEDAD PARA CATEGORIAID (debe existir en tu entidad Producto)
-            entity.Property(e => e.CategoriaId).IsRequired();
         }
     }
 }

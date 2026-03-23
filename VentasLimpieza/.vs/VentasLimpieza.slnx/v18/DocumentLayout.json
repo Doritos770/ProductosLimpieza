@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\data\\configurations\\categoriaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\data\\configurations\\categoriaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BB215D5-D33D-D426-E1BA-C9B13FBD0511}|VentasLimpieza.Api\\VentasLimpieza.Api.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB215D5-D33D-D426-E1BA-C9B13FBD0511}|VentasLimpieza.Api\\VentasLimpieza.Api.csproj|solutionrelative:ventaslimpieza.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\data\\configurations\\productoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\data\\configurations\\productoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.core\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|solutionrelative:ventaslimpieza.core\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.core\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|solutionrelative:ventaslimpieza.core\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\data\\configurations\\pedidoconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\data\\configurations\\pedidoconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\data\\configurations\\usuarioconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\data\\configurations\\usuarioconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\data\\configurations\\resenaconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\data\\configurations\\resenaconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\data\\configurations\\direccionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\data\\configurations\\direccionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.core\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|solutionrelative:ventaslimpieza.core\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.core\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E61A7FC-F7E2-DB6C-814E-3D2F1A986D1C}|VentasLimpieza.Core\\VentasLimpieza.Core.csproj|solutionrelative:ventaslimpieza.core\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|c:\\users\\doria\\onedrive\\escritorio\\proyecto\\ventaslimpieza\\ventaslimpieza.infrastructure\\mapping\\ventaslimpiezaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249BA53C-5683-81AD-F241-26A23D130482}|VentasLimpieza.Infrastructure\\VentasLimpieza.Infrastructure.csproj|solutionrelative:ventaslimpieza.infrastructure\\mapping\\ventaslimpiezaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,183 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Entities\\Categoria.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Core\\Entities\\Categoria.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Entities\\Categoria.cs",
-              "RelativeToolTip": "VentasLimpieza.Core\\Entities\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAABAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Api\\Program.cs",
+              "RelativeDocumentMoniker": "VentasLimpieza.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Api\\Program.cs",
+              "RelativeToolTip": "VentasLimpieza.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:35:34.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Entities\\Producto.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Core\\Entities\\Producto.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Entities\\Producto.cs",
-              "RelativeToolTip": "VentasLimpieza.Core\\Entities\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:35:08.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsuarioConfiguration .cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\UsuarioConfiguration .cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Data\\Configurations\\UsuarioConfiguration .cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\UsuarioConfiguration .cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Data\\Configurations\\UsuarioConfiguration .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:20:27.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResenaConfiguration .cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\ResenaConfiguration .cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Data\\Configurations\\ResenaConfiguration .cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\ResenaConfiguration .cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Data\\Configurations\\ResenaConfiguration .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:20:23.727Z",
+              "WhenOpened": "2026-03-23T12:20:28.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAArAAAAAAAAAA==",
+              "Title": "VentasLimpiezaProfile.cs",
+              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Mapping\\VentasLimpiezaProfile.cs",
+              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Mapping\\VentasLimpiezaProfile.cs",
+              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Mapping\\VentasLimpiezaProfile.cs",
+              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Mapping\\VentasLimpiezaProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:20:19.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PedidoConfiguration .cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\PedidoConfiguration .cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Data\\Configurations\\PedidoConfiguration .cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\PedidoConfiguration .cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Data\\Configurations\\PedidoConfiguration .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:20:14.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DireccionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\DireccionConfiguration.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Data\\Configurations\\DireccionConfiguration.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\DireccionConfiguration.cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Data\\Configurations\\DireccionConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:20:06.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriaConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\CategoriaConfiguration.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Data\\Configurations\\CategoriaConfiguration.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Data\\Configurations\\CategoriaConfiguration.cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Data\\Configurations\\CategoriaConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:19:50.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Core\\Interfaces\\ICategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeToolTip": "VentasLimpieza.Core\\Interfaces\\ICategoriaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:15:38.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Repositories\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Repositories\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Repositories\\CategoriaRepository.cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Repositories\\CategoriaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:15:13.198Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "e3338a38-7130-4f62-abf0-4edbcda18986",
-        "Display": 1,
-        "X": 376,
-        "Y": 366,
-        "Width": 1090,
-        "Height": 583,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Core\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Core\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "VentasLimpieza.Core\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:02:08.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "VentasLimpieza.Infrastructure\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\doria\\OneDrive\\Escritorio\\Proyecto\\VentasLimpieza\\VentasLimpieza.Infrastructure\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "VentasLimpieza.Infrastructure\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T01:20:30.703Z",
+              "WhenOpened": "2026-03-23T12:15:05.034Z",
               "EditorCaption": ""
             }
           ]

@@ -9,3 +9,4 @@ C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Core\o
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Core\obj\Debug\net10.0\refint\VentasLimpieza.Core.dll
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Core\obj\Debug\net10.0\VentasLimpieza.Core.pdb
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Core\obj\Debug\net10.0\ref\VentasLimpieza.Core.dll
+C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Core\obj\Debug\net10.0\VentasLimpieza.Core.sourcelink.json

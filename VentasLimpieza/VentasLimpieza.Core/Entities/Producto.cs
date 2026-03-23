@@ -11,8 +11,6 @@ public partial class Producto
 
     public string? Descripcion { get; set; }
 
-    public int CategoriaId { get; set; }
-
     public string? Marca { get; set; }
 
     public string? UsoEspecifico { get; set; }

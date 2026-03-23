@@ -1,7 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using VentasLimpieza.core.Entities;
 using VentasLimpieza.core.Interfaces;
 using VentasLimpieza.Infrastructure.Data;
@@ -21,7 +18,7 @@ namespace VentasLimpieza.Infrastructure.Repositories
             var usuarios = await _usuario.Usuarios.ToListAsync();
             return usuarios;
         }
-        public async Task<Usuario> GetUsuarioAsync(int id)
+        public async Task<Usuario> GetUsuarioByIdAsync(int id)
         {
             var usuario = await _usuario.Usuarios.FirstOrDefaultAsync(x=> x.Id == id);
             return usuario;

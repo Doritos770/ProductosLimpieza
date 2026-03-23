@@ -124,3 +124,4 @@ C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Api\ob
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Api\obj\Debug\net10.0\VentasLimpieza.Api.pdb
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Api\obj\Debug\net10.0\VentasLimpieza.Api.genruntimeconfig.cache
 C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Api\obj\Debug\net10.0\ref\VentasLimpieza.Api.dll
+C:\Users\doria\OneDrive\Escritorio\Proyecto\VentasLimpieza\VentasLimpieza.Api\obj\Debug\net10.0\VentasLimpieza.Api.sourcelink.json

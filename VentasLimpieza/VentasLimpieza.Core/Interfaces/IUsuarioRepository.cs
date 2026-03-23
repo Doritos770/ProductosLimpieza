@@ -5,7 +5,7 @@ namespace VentasLimpieza.core.Interfaces;
 public interface IUsuarioRepository
 {
     Task<IEnumerable<Usuario>> GetUsuariosAsync();
-    Task<Usuario> GetUsuarioAsync(int id);
+    Task<Usuario> GetUsuarioByIdAsync(int id);
     Task InsertUsuario(Usuario usuario);
     Task UpdateUsuario(Usuario usuario);
     Task DeleteUsuario(Usuario usuario);
