@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\VentasLimpieza.Core\VentasLimpieza.Core.csproj" />
     <ProjectReference Include="..\VentasLimpieza.Infrastructure\VentasLimpieza.Infrastructure.csproj" />
+    <ProjectReference Include="..\VentasLimpieza.Services\VentasLimpieza.Services.csproj" />
   </ItemGroup>
 
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VentasLimpieza.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89be4a59bfee09554356a5cec76680762bde66ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32ee24c71298be946ff374a07901289604e245c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("VentasLimpieza.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VentasLimpieza.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
