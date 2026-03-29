@@ -72,5 +72,163 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "GetDtoUsuario",
+    "RelativePath": "api/Usuario/dto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "InsertDtoUsuario",
+    "RelativePath": "api/Usuario/dto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioDto",
+        "Type": "VentasLimpieza.core.Dtos.UsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "GetDtoUsuarioById",
+    "RelativePath": "api/Usuario/dto/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "UpdateDtoUsuario",
+    "RelativePath": "api/Usuario/dto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarioDto",
+        "Type": "VentasLimpieza.core.Dtos.UsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "DeleteDtoUsuario",
+    "RelativePath": "api/Usuario/dto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "GetDtoMapperUsuario",
+    "RelativePath": "api/Usuario/dto/mapper",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "InsertDtoMapperUsuario",
+    "RelativePath": "api/Usuario/dto/mapper",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioDto",
+        "Type": "VentasLimpieza.core.Dtos.UsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "GetDtoMapperUsuarioById",
+    "RelativePath": "api/Usuario/dto/mapper/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "UpdateDtoMapperUsuario",
+    "RelativePath": "api/Usuario/dto/mapper/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarioDto",
+        "Type": "VentasLimpieza.core.Dtos.UsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VentasLimpieza.Api.Controllers.UsuarioController",
+    "Method": "DeleteDtoMapperUsuario",
+    "RelativePath": "api/Usuario/dto/mapper/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

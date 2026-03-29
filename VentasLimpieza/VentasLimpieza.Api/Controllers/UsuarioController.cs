@@ -7,7 +7,7 @@ using VentasLimpieza.core.Interfaces;
 
 namespace VentasLimpieza.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]")]//api/usuario
     [ApiController]
     public class UsuarioController : ControllerBase
     {
@@ -56,6 +56,7 @@ namespace VentasLimpieza.Api.Controllers
             return NoContent();
         }
         #endregion
+
         #region conDtos
         [HttpGet("dto")]
         public async Task<IActionResult> GetDtoUsuario()
